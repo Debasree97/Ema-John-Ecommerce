@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.product-list-container {
+  border-right: 1px solid lightgray;
+  padding-left: 50px;
+}
+.product-total-container {
+  padding-left: 8px;
+}
